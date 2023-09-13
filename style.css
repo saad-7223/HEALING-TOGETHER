@@ -12,20 +12,23 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('pictures/face.jpg') no-repeat ;
-    object-fit: cover;
+    background: url('pictures/f.jpg') no-repeat ;
+    background-size: cover;
+    background-position: center;    
 }
 
 .wrapper{
     width: 420px;
     color: #fff;
-    background-color: purple;
+    background: transparent;
+    border: 2px solid rgba(255,255,255,.2);
     padding: 30px 40px;
 }
 
 .wrapper h1{
     font-size: 36px;
     text-align: center;
+    
 }
 
 .wrapper .input-box{
