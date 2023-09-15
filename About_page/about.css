@@ -6,7 +6,7 @@
 }
 body{
     /* background-color: white; */
-    background-image: url("pictures/img.jpg");
+    background-image: url("../background_images/img.jpg");
     background-position: center;
     background-size : cover;
 
